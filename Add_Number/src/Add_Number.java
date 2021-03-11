@@ -7,6 +7,7 @@ public class Add_Number {
 		System.out.println(6+5);
 		System.out.println("Kavi");
 		System.out.println("Kavipriya");
+		System.out.println("Hi");
 	}
 
 }
